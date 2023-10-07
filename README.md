@@ -96,7 +96,7 @@ class AdminPageService implements Service {
 ```
 then we can interact with plugin class now \
 we can now use form interface ("like laravel facade") to build our form 
->[!NOTE] \
+>[!NOTE] 
 > supported fields \
 > text \
 > select \
